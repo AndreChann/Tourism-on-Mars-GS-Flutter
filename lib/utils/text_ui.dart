@@ -1,0 +1,9 @@
+const String titleLogin = 'Embarque conosco nesta jornada!';
+const String titleGuide = 'Guia de Turismo em Marte';
+const String titleObservation = 'Registre sua observação em Marte';
+const String titleGallery = 'Galeria de imagens em Marte';
+const String titleHome = 'Bem-Vindo(a) à Tourism on Mars Company!';
+const String popup = 'Nome: André da Silva Chan \nRM: 85245\n\nNome: Gabriel de Souza Picinato\nRM: 85992\n\nNome: Raphael Frade dos Santos\nRM: 82566';
+const String mars = 'Marte é o quarto planeta a partir do Sol, o segundo menor do Sistema Solar e fica cerca de 230.000.000 de km de distância do nosso planeta, Marte pode chegar às máximas de 35 graus durante os dias mais quentes do ano. Porém, a média de temperatura apresentada é de -63 graus.';
+const String toDoMars = 'Desfrutar de uma excelente espaçonave com tudo o que você necessita durante sua estadia enquanto você explora o planeta vermelho com o nosso mais novo drone que são equipados com duas câmeras fotográficas em que os turistas podem tirar quantas fotografias quiserem.';
+const String gravity = 'Como o planeta vermelho tem menos gravidade do que a Terra, o peso de uma pessoa seria 62% menor por lá e a capacidade de levantar pesos fica duas vezes maior: cada quatro quilos na Terra correspondem a pouco menos que dois quilos em Marte.';
